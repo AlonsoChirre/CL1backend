@@ -1,0 +1,20 @@
+1;ASR-121;KIA;Sportage;5;26000;Negro
+2.ABC-202; BMW; 3 Series; 5; 42,000; Negro Mate
+3.DEF-303; Audi; A6; 5; 55,000; Gris Perlado
+4.GHI-404; Mercedes-Benz; C-Class; 5; 47,000; Blanco Diamante
+5.JKL-505; Volvo; V90; 5; 58,000; Rojo Vino
+6.MNO-606; Lexus; RX 350; 5; 52,000; Plata Brillante
+7.PQR-707; Porsche; Panamera; 4; 120,000; Azul Profundo
+8.STU-808; Jaguar; XF; 5; 65,000; Verde Esmeralda
+9.VWX-909; Land Rover; Range Rover; 5; 130,000; Gris Grafito
+10.YZA-010; Maserati; Ghibli; 5; 85,000; Azul Oscuro
+11.BCD-121; Alfa Romeo; Giulia; 5; 45,000; Rojo Fuego
+12.EFG-232; Ferrari; Portofino; 2; 215,000; Amarillo Solar
+13.HIJ-343; Lamborghini; Huracán; 2; 260,000; Verde Lima
+14.KLM-454; McLaren; 720S; 2; 300,000; Naranja Metalizado
+15.NOP-565; Aston Martin; DB11; 2; 240,000; Negro Sombra
+16.QRS-676; Rolls-Royce; Phantom; 4; 400,000; Blanco Nacarado
+17.TUV-787; Bentley; Continental; 4; 220,000; Azul Cobalto
+18.WXY-898; Bugatti; Chiron; 2; 3,000,000; Negro Mate
+19.ZAB-909; Pagani; Huayra; 2; 3,200,000; Plateado
+20.CDE-010; Koenigsegg; Jesko; 2; 3,500,000; Blanco Perlado
